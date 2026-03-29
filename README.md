@@ -1,0 +1,6 @@
+利用Linearlayout进行了首页以及第二页的静态页面复刻
+在首页中利用padding和layout_marginLeft对间隔以及按钮位置进行调整以确保复刻的准确
+设置了点击事件，点击Cards&Offers实现跳转到下一页
+在首页点击时会出现阴影效果
+在头像栏将头像设置成圆角
+添加CardView依赖实现头像部分的阴影
